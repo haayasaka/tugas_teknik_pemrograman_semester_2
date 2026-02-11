@@ -1,2 +1,4 @@
-# tugas_teknik_pemrograman_semester_2
-Kumpulan tugas teknik pemrograman semester 2
+# TUGAS TEKNIK PEMGORGRAMAN SEMESTER 2
+Kumpulan tugas matkul Teknik Pemrograman Semester 2 teori dan praktek
+Nama: HAFIZ FAUZAN SYAFRUDIN
+Kelas: 1B-D4
